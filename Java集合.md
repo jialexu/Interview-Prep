@@ -35,3 +35,19 @@
 # Java集合常见面试题（下）
 
 ## Map
+1. HashMap和Hashtable的区别
+2. HashMap和HashSet区别
+3. HashMap和TreeMap区别
+4. HashSet如何检查重复
+5. HashMap底层实现
+6. HashMap长度为什么是2的幂次方
+7. HashMap多线程操作导致死循环问题
+8. HashMap为什么线程不安全
+9. HashMap常见遍历方式
+10. ConcurrentHashMap和Hashtable的区别
+11. ConcurrentHashMap线程安全的具体实现方式、底层具体实现
+12. JDK1.7和JDK1.8的ConcurrentHashMap实现有什么不同
+13. ConcurrentHashMap为什么key和value不能为null
+14. ConcurrentHashMap能保证符合操作的原子性吗？
+15. Collection工具类
+16. 
