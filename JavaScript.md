@@ -14,4 +14,7 @@ https://www.interviewbit.com/javascript-interview-questions/#implicit-type-coerc
 10. Immediately Invoked Function, IIFE
 11. strict mode, characterisitics of javascript strict mode
 12. higher order functions
-13. 
+13. this keyword
+14. Self Invoking Functions
+15. call(), apply(), bind()
+16. 
