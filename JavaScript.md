@@ -17,4 +17,29 @@ https://www.interviewbit.com/javascript-interview-questions/#implicit-type-coerc
 13. this keyword
 14. Self Invoking Functions
 15. call(), apply(), bind()
-16. 
+16. exec(), test()
+17. currying in JS
+18. external javascript advantages
+19. scope and scope chain
+20. Closure
+21. advantages of javascript
+22. object prototypes
+23. callbacks
+24. types of errors
+25. memoization
+26. recursion
+27. use of constructor
+28. DOM, Document Object Model
+29. which method is used to retrieve a character from a certain index
+30. BOM, Browser Object Model
+31. client-side, server-side JavaScript
+
+## Experienced
+1. arrow functions
+2. prototype design pattern
+3. declaring variables using var, let and const.
+4. rest parameter and spread operator
+5. how to declare or construct an object
+6. use of promises
+7. classes
+8. 
